@@ -1,3 +1,3 @@
 # weather-app
 
-Webpack configuration app 
+Webpack configuration app
