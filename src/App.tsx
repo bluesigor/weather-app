@@ -4,7 +4,7 @@ import boat from './boat.svg'
 import ClickCounter from './ClickCounter'
 
 export const App = () => {
-  const name = 'Ihor'
+  const name = 'Ihor';
 
   return (
     <>
